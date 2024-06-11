@@ -1,8 +1,3 @@
-# Connect4
-Here's a description in the form of a README file for the three provided project files:
-
----
-
 # Connect4 Q-Learning Project
 
 This repository contains the implementation of a Connect4 game environment, a graphical user interface (GUI) for the game, and a Q-learning agent designed to play Connect4.
